@@ -2,7 +2,7 @@
 JavaScript API for BoardGameGeek
 
 ## Why?
-This is a support project for my attempt at a [BoardGameGeek app](https://github.com/mdreier/bgg-mobile) for mobile devices.
+This is a support project for my attempt at a [BoardGameGeek app](https://github.com/mdreier/bgg-mobile) for mobile devices. It will also be my first try with [node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/), something which I wanted to try out for a long time. 
 
 ## What?
 This JavaScript API is based on a reverse engineering of the (inofficial) API used by the [BoardGameGeek website](https://boardgamegeek.com/). To make my efforts reusable I split out the API into a separate package and will try to publish it on [npm](https://www.npmjs.com/) for reuse by other developers.
